@@ -1,0 +1,160 @@
+{
+  "book_id": "gilded-age-american-gothic-local-universal",
+  "title": "THE AJAX VEIN",
+  "tagline": "In a Colorado mining town, a corporate agent discovers the mountain has a soul—and it's fighting back.",
+  "target_words": 70000,
+  "actual_words": 71059,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Soul of Place vs. The Machinery of Progress",
+    "Extractive Capitalism as a Gothic Force",
+    "Local Knowledge as Resistance",
+    "The Haunting Debt of the Land"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Surrender",
+      "words": 2950
+    },
+    {
+      "ch": 2,
+      "title": "The Obstruction",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "The Language of Stone",
+      "words": 2950
+    },
+    {
+      "ch": 4,
+      "title": "The Concordia's Price",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "Whispers in the Shaft",
+      "words": 2950
+    },
+    {
+      "ch": 6,
+      "title": "Ledger and Lore",
+      "words": 2950
+    },
+    {
+      "ch": 7,
+      "title": "The Sick Creek",
+      "words": 2950
+    },
+    {
+      "ch": 8,
+      "title": "A Balance of Harms",
+      "words": 2950
+    },
+    {
+      "ch": 9,
+      "title": "The First Refusal",
+      "words": 2950
+    },
+    {
+      "ch": 10,
+      "title": "The Mountain's Dream",
+      "words": 2950
+    },
+    {
+      "ch": 11,
+      "title": "Moody's Gambit",
+      "words": 2950
+    },
+    {
+      "ch": 12,
+      "title": "Cracks in the Armor",
+      "words": 2950
+    },
+    {
+      "ch": 13,
+      "title": "The Van Slyke Ultimatum",
+      "words": 2950
+    },
+    {
+      "ch": 14,
+      "title": "The Unsealed Letter",
+      "words": 2950
+    },
+    {
+      "ch": 15,
+      "title": "Into the Lateral",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "What the Vein Shows",
+      "words": 2950
+    },
+    {
+      "ch": 17,
+      "title": "The Breath of Stone",
+      "words": 2950
+    },
+    {
+      "ch": 18,
+      "title": "A Calculus of Loyalty",
+      "words": 2950
+    },
+    {
+      "ch": 19,
+      "title": "The Smelter's Plume",
+      "words": 2950
+    },
+    {
+      "ch": 20,
+      "title": "The Gage Defense",
+      "words": 2950
+    },
+    {
+      "ch": 21,
+      "title": "Liquidate",
+      "words": 2950
+    },
+    {
+      "ch": 22,
+      "title": "The Webley's Choice",
+      "words": 2950
+    },
+    {
+      "ch": 23,
+      "title": "The Reckoning of Gilded Creek",
+      "words": 2950
+    },
+    {
+      "ch": 24,
+      "title": "What the Mountain Keeps",
+      "words": 2950
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a 'found document' from the Gilded Creek archive: a miner's letter home, a company ledger entry showing 'spiritual obstruction' as a cost, a child's drawing of the smelter smoke as a monster, or a botanical sketch from Cora's garden with notes on medicinal vs. metallic properties.",
+      "Create a monologue from the perspective of the Mountain/Ajax Vein. How does it perceive the drills, the men, the Thorns and the Gages? What does it want?",
+      "Draft a scene set 20 years after the novel's end. Who is living in the Ajax house? What grows in the garden? What story do the old-timers in the (now maybe touristy) town tell about 'the trouble at the Ajax'?",
+      "Write a 'prequel' scene: young Hiram Gage first arriving at the claim. What did he experience that made him shift from prospector to guardian? Or, write the moment the Van Slyke Consortium in New York decides to send Silas Thorne."
+    ],
+    "technical": [
+      "Build an interactive map of Gilded Creek and the Ajax Mountain, tagging locations with 'audio lore' (snippets of dialogue, environmental sounds, the 'song' of the vein) and 'extractive data' (mine yields, pollution levels, company valuations).",
+      "Create a 'Dual-Ledger' visualization tool. One side tracks Silas's world: financial costs, ore tonnage, payroll. The other tracks Cora and Hiram's world: water purity, bee colony health, tree blight, strange seismic readings. Show how actions in one ledger affect the other."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Nathaniel Hawthorne (for moral allegory buried in a specific, grim locale)",
+      "Ursula K. Le Guin (for the conflict between extractive and ecological worldviews, and the 'language' of place)",
+      "Cormac McCarthy (for the stark, poetic prose of violence and landscape in the American West)",
+      "Charlotte Perkins Gilman (for the critique of patriarchal capitalism and the exploration of alternative, often domestic/spatial, modes of resistance)"
+    ]
+  },
+  "cover_prompt": "A corporate agent in a Victorian suit stands transfixed, his hand pressed against the cold quartz vein of a mine shaft wall, from which a spectral, geological glow pulses like a subterranean heartbeat, within the oppressive darkness of a 19th-century Colorado silver mine, detailed with timber braces, abandoned pickaxes, and veins of ore that seem to watch, in the atmospheric style of Thomas Hart Benton's muscular realism and the haunting luminosity of Albert Pinkham Ryder, evoking American Gothic unease, book cover framing, centered and intimate composition viewed from a low angle to make the mountain's presence loom, dramatic chiaroscuro lighting where the cold, unnatural glow from the stone battles the warm, feeble light of the agent's lantern, a palette of soot black, oxidized silver, deep umber, and eerie mineral luminescence, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
