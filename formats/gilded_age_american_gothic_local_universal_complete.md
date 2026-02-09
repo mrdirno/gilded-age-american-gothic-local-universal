@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The train did not so much arrive at Gilded Creek as it surrendered to it.
@@ -132,6 +134,8 @@ And from the deep, silent throat of the mountain, he heard, or imagined he heard
 
 He pulled the curtain shut, blocking out the moonlit view of the garden, the mine, the hungry lights of the Concordia. The dark in the room felt suddenly absolute, and for the first time in his meticulously ordered life, Silas Thorne felt the precise, geometric shape of his own ignorance. It was a void, and it echoed.
 
+# Chapter 2
+
 ## **Chapter 2**
 
 The clothes Cora gave him smelled of lye soap, pine resin, and the faint, acrid scent of rock dust that never fully washed out. Heavy wool trousers, a thick cotton shirt, a leather vest scarred by old abrasions. They were the clothes of a missing man—a miner named Jeb, Cora said without sentiment, who’d taken a job at the Concordia the previous spring and hadn’t lasted the month. “The mountain didn’t know him,” was all she’d offered by way of eulogy.
@@ -243,6 +247,8 @@ A cold that had nothing to do with the evening air locked around Silas Thorne’
 The first major complication had arrived. And it hadn’t come from Hiram Gage.
 
 It had come from progress.
+
+# Chapter 3
 
 ## **Chapter 3**
 
